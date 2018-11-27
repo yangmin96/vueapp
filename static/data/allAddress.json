@@ -1,0 +1,39 @@
+{
+    "control": {
+      "expires": 1800
+    },
+    "status": 0,
+    "data": {
+      "hasNext": false,
+      "address":[
+        {
+          "name": "小明",
+         " phone": 13568978546,
+          "city": "广州",
+          "detailAdd": "天河区花城大道111号",
+          "id":1
+        },
+        {
+          "name": "小丽",
+          "phone": 13568911546,
+          "city": "北京",
+          "detailAdd": "朝阳区朝阳北路111号",
+          "id":2
+        },
+        {
+          "name": "小红",
+          "phone": 18126735567,
+          "city": "杭州",
+          "detailAdd": "西湖区南大厦121号",
+          "id":3
+        },
+        {
+          "name": "小红",
+          "phone": 18126735567,
+          "city": "杭州",
+          "detailAdd": "平野区南湖东方111室",
+          "id":4
+        }
+      ]
+  }
+  }

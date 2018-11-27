@@ -1,0 +1,13 @@
+{
+    "control": {
+      "expires": 1800
+    },
+    "status": 0,
+    "data": {
+      "hasNext": false,
+      "homes":
+  [
+    {"id":12, "kind": 6, "img": "/static/imgs/乳品2.png", "title": "香飘飘", "content": "各种口味香飘飘", "price": 33,"sale":"已售999" }
+    ]
+  }
+  }

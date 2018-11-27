@@ -1,0 +1,13 @@
+{
+    "control": {
+      "expires": 1800
+    },
+    "status": 0,
+    "data": {
+      "hasNext": false,
+      "homes":
+  [
+    {"id":10, "kind": 5, "img": "/static/imgs/酒饮2.png", "title": "维他饮品", "content": "补充维生素饮品", "price": 70,"sale":"已售855" }
+    ]
+  }
+  }

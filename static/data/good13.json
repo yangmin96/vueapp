@@ -1,0 +1,13 @@
+{
+    "control": {
+      "expires": 1800
+    },
+    "status": 0,
+    "data": {
+      "hasNext": false,
+      "homes":
+  [
+    {"id":13, "kind": 7, "img": "/static/imgs/零食.png", "title": "可比克", "content": "可口薯片", "price": 5 ,"sale":"已售109" }
+    ]
+  }
+  }

@@ -1,0 +1,13 @@
+{
+    "control": {
+      "expires": 1800
+    },
+    "status": 0,
+    "data": {
+      "hasNext": false,
+      "homes":
+  [
+    {"id":14, "kind": 7, "img": "/static/imgs/零食2.png", "title": "爆米花", "content": "香甜小零食", "price": 15,"sale":"已售666"  }
+    ]
+  }
+  }
