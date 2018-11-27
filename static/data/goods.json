@@ -8,7 +8,7 @@
     "homes":
 [
     {"id":1, "kind": 1, "img": "./static/imgs/s1.png", "title": "樱桃", "content": "新鲜进口樱桃", "price": 18,"sale":"已售145" },
-    {"id":2, "kind": 1, "img": "./static/imgs/水s2.png", "title": "芒果", "content": "香甜芒果", "price": 20,"sale":"已售234" },
+    {"id":2, "kind": 1, "img": "./static/imgs/s2.png", "title": "芒果", "content": "香甜芒果", "price": 20,"sale":"已售234" },
     {"id":3, "kind": 2, "img": "./static/imgs/c1.png", "title": "蒜苔", "content": "新鲜蒜苔", "price": 20,"sale":"已售178" },
     {"id":4, "kind": 2, "img": "./static/imgs/c2.png", "title": "豆角", "content": "新鲜豆角", "price": 30,"sale":"已售928" },
     {"id":5, "kind": 3, "img": "./static/imgs/d1.png", "title": "肥羊", "content": "新鲜肥羊", "price": 10,"sale":"已售876" },
