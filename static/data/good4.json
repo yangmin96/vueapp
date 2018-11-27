@@ -7,7 +7,7 @@
       "hasNext": false,
       "homes":
   [
-    { "id":4, "kind": 2, "img": "/static/imgs/蔬菜2.png", "title": "豆角", "content": "新鲜豆角", "price": 30,
+    { "id":4, "kind": 2, "img": "./static/imgs/蔬菜2.png", "title": "豆角", "content": "新鲜豆角", "price": 30,
       "sale":"已售928","xindong":"心动价：",
       "qiang":"总计：","need":"购买须知",
       "day":"有效日期",

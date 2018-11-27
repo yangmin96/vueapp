@@ -7,7 +7,7 @@
       "hasNext": false,
       "homes":
   [
-    {"id":9, "kind": 5, "img": "/static/imgs/酒饮.png", "title": "啤酒", "content": "哈尔滨啤酒", "price": 10,"sale":"已售876"}
+    {"id":9, "kind": 5, "img": "./static/imgs/酒饮.png", "title": "啤酒", "content": "哈尔滨啤酒", "price": 10,"sale":"已售876"}
     ]
   }
   }

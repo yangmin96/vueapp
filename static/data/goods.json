@@ -7,20 +7,20 @@
     "hasNext": false,
     "homes":
 [
-    {"id":1, "kind": 1, "img": "/static/imgs/水果.png", "title": "樱桃", "content": "新鲜进口樱桃", "price": 18,"sale":"已售145" },
-    {"id":2, "kind": 1, "img": "/static/imgs/水果2.png", "title": "芒果", "content": "香甜芒果", "price": 20,"sale":"已售234" },
-    {"id":3, "kind": 2, "img": "/static/imgs/蔬菜.png", "title": "蒜苔", "content": "新鲜蒜苔", "price": 20,"sale":"已售178" },
-    {"id":4, "kind": 2, "img": "/static/imgs/蔬菜2.png", "title": "豆角", "content": "新鲜豆角", "price": 30,"sale":"已售928" },
-    {"id":5, "kind": 3, "img": "/static/imgs/肉蛋.png", "title": "肥羊", "content": "新鲜肥羊", "price": 10,"sale":"已售876" },
-    {"id":6, "kind": 3, "img": "/static/imgs/肉蛋2.png", "title": "牛排", "content": "进口牛排", "price": 15,"sale":"已售998" },
-    {"id":7, "kind": 4, "img": "/static/imgs/速冻.png", "title": "牛肉", "content": "来自草原的牛肉", "price": 50,"sale":"已售987" },
-    {"id":8, "kind": 4, "img": "/static/imgs/速冻2.png", "title": "羊肚", "content": "速冻羊肚", "price": 60,"sale":"已售642" },
-    {"id":9, "kind": 5, "img": "/static/imgs/酒饮.png", "title": "啤酒", "content": "哈尔滨啤酒", "price": 10,"sale":"已售876"},
-    {"id":10, "kind": 5, "img": "/static/imgs/酒饮2.png", "title": "维他饮品", "content": "补充维生素饮品", "price": 70,"sale":"已售855" },
-    {"id":11, "kind": 6, "img": "/static/imgs/乳品.png", "title": "优酸乳", "content": "酸酸甜甜", "price": 55,"sale":"已售987" },
-    {"id":12, "kind": 6, "img": "/static/imgs/乳品2.png", "title": "香飘飘", "content": "各种口味香飘飘", "price": 33,"sale":"已售999" },
-    {"id":13, "kind": 7, "img": "/static/imgs/零食.png", "title": "可比克", "content": "可口薯片", "price": 5 ,"sale":"已售109"},
-    {"id":14, "kind": 7, "img": "/static/imgs/零食2.png", "title": "爆米花", "content": "香甜小零食", "price": 15,"sale":"已售666" }
+    {"id":1, "kind": 1, "img": "./static/imgs/水果.png", "title": "樱桃", "content": "新鲜进口樱桃", "price": 18,"sale":"已售145" },
+    {"id":2, "kind": 1, "img": "./static/imgs/水果2.png", "title": "芒果", "content": "香甜芒果", "price": 20,"sale":"已售234" },
+    {"id":3, "kind": 2, "img": "./static/imgs/蔬菜.png", "title": "蒜苔", "content": "新鲜蒜苔", "price": 20,"sale":"已售178" },
+    {"id":4, "kind": 2, "img": "./static/imgs/蔬菜2.png", "title": "豆角", "content": "新鲜豆角", "price": 30,"sale":"已售928" },
+    {"id":5, "kind": 3, "img": "./static/imgs/肉蛋.png", "title": "肥羊", "content": "新鲜肥羊", "price": 10,"sale":"已售876" },
+    {"id":6, "kind": 3, "img": "./static/imgs/肉蛋2.png", "title": "牛排", "content": "进口牛排", "price": 15,"sale":"已售998" },
+    {"id":7, "kind": 4, "img": "./static/imgs/速冻.png", "title": "牛肉", "content": "来自草原的牛肉", "price": 50,"sale":"已售987" },
+    {"id":8, "kind": 4, "img": "./static/imgs/速冻2.png", "title": "羊肚", "content": "速冻羊肚", "price": 60,"sale":"已售642" },
+    {"id":9, "kind": 5, "img": "./static/imgs/酒饮.png", "title": "啤酒", "content": "哈尔滨啤酒", "price": 10,"sale":"已售876"},
+    {"id":10, "kind": 5, "img": "./static/imgs/酒饮2.png", "title": "维他饮品", "content": "补充维生素饮品", "price": 70,"sale":"已售855" },
+    {"id":11, "kind": 6, "img": "./static/imgs/乳品.png", "title": "优酸乳", "content": "酸酸甜甜", "price": 55,"sale":"已售987" },
+    {"id":12, "kind": 6, "img": "./static/imgs/乳品2.png", "title": "香飘飘", "content": "各种口味香飘飘", "price": 33,"sale":"已售999" },
+    {"id":13, "kind": 7, "img": "./static/imgs/零食.png", "title": "可比克", "content": "可口薯片", "price": 5 ,"sale":"已售109"},
+    {"id":14, "kind": 7, "img": "./static/imgs/零食2.png", "title": "爆米花", "content": "香甜小零食", "price": 15,"sale":"已售666" }
   ]
 }
 }

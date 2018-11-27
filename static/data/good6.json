@@ -7,7 +7,7 @@
       "hasNext": false,
       "homes":
   [
-    { "id":6, "kind": 3, "img": "/static/imgs/肉蛋2.png", "title": "牛排", "content": "进口牛排", "price": 15,
+    { "id":6, "kind": 3, "img": "./static/imgs/肉蛋2.png", "title": "牛排", "content": "进口牛排", "price": 15,
       "sale":"已售998" ,"xindong":"心动价：",
       "qiang":"总计：","need":"购买须知",
       "day":"有效日期",

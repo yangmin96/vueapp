@@ -7,7 +7,7 @@
       "hasNext": false,
       "homes":
   [
-    {"id":2, "kind": 1, "img": "/static/imgs/水果2.png", "title": "芒果", "content": "香甜芒果", "price": 20,
+    {"id":2, "kind": 1, "img": "./static/imgs/水果2.png", "title": "芒果", "content": "香甜芒果", "price": 20,
       "sale":"已售234","xindong":"心动价：",
       "qiang":"总计：","need":"购买须知",
       "day":"有效日期",

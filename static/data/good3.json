@@ -7,7 +7,7 @@
       "hasNext": false,
       "homes":
   [
-    { "id":3, "kind": 2, "img": "/static/imgs/蔬菜.png", "title": "蒜苔", "content": "新鲜蒜苔", "price": 20,
+    { "id":3, "kind": 2, "img": "./static/imgs/蔬菜.png", "title": "蒜苔", "content": "新鲜蒜苔", "price": 20,
       "sale":"已售178","xindong":"心动价：",
       "qiang":"总计：","need":"购买须知",
       "day":"有效日期",

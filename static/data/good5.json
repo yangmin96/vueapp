@@ -7,7 +7,7 @@
       "hasNext": false,
       "homes":
   [
-    { "id":5, "kind": 3, "img": "/static/imgs/肉蛋.png", "title": "肥羊", "content": "新鲜肥羊", "price": 10,
+    { "id":5, "kind": 3, "img": "./static/imgs/肉蛋.png", "title": "肥羊", "content": "新鲜肥羊", "price": 10,
       "sale":"已售876","xindong":"心动价：",
       "qiang":"总计：","need":"购买须知",
       "day":"有效日期",

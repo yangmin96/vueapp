@@ -7,7 +7,7 @@
       "hasNext": false,
       "homes":
   [
-    { "id":7, "kind": 4, "img": "/static/imgs/速冻.png", "title": "牛肉", "content": "来自草原的牛肉", "price": 50,
+    { "id":7, "kind": 4, "img": "./static/imgs/速冻.png", "title": "牛肉", "content": "来自草原的牛肉", "price": 50,
       "sale":"已售987","xindong":"心动价：",
       "qiang":"总计：","need":"购买须知",
       "day":"有效日期",

@@ -7,7 +7,7 @@
       "hasNext": false,
       "homes":
   [
-    { "id":8, "kind": 4, "img": "/static/imgs/速冻2.png", "title": "羊肚", "content": "速冻羊肚", "price": 60,"sale":"已售642" }
+    { "id":8, "kind": 4, "img": "./static/imgs/速冻2.png", "title": "羊肚", "content": "速冻羊肚", "price": 60,"sale":"已售642" }
     ]
   }
   }

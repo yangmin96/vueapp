@@ -7,7 +7,7 @@
       "hasNext": false,
       "homes":
   [
-    {"id":11, "kind": 6, "img": "/static/imgs/乳品.png", "title": "优酸乳", "content": "酸酸甜甜", "price": 55,"sale":"已售987"}
+    {"id":11, "kind": 6, "img": "./static/imgs/乳品.png", "title": "优酸乳", "content": "酸酸甜甜", "price": 55,"sale":"已售987"}
     ]
   }
   }
